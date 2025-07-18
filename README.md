@@ -1,6 +1,6 @@
 # 🧮 Assignment2_Conditionals
 
-This is the **first repository I ever created on GitHub** — during the time I began learning **C++** and took my first formal steps into **Data Structures & Algorithms (DSA)**.
+This is the **second repository I ever created on GitHub** — during the time I began learning **C++** and took my first formal steps into **Data Structures & Algorithms (DSA)**.
 
 ---
 
